@@ -2,6 +2,7 @@
 Core microservice to download pictures from Google Photos API
 
 client: [virtual-portrait-client](https://github.com/albertollamaso/virtual-portrait-client)
+
 dispatcher: [virtual-portrait-dispatcher](https://github.com/albertollamaso/virtual-portrait-dispatcher)
 
 ### How it works?
