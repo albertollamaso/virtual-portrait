@@ -1,0 +1,5 @@
+main
+token.json
+.DS_Store
+photos/*
+env.txt
